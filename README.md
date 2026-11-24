@@ -41,13 +41,3 @@ Provador virtual com IA, moda, looks e comunidade. Roadmap de features no README
   <a href="https://www.linkedin.com/in/rosim%C3%A9ri-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E8D5CF?style=for-the-badge&logo=linkedin&logoColor=3B3331" target="_blank"></a>
   <a href="mailto:rosimery56@hotmail.com"><img src="https://img.shields.io/badge/-Email-E8D5CF?style=for-the-badge&logo=maildotru&logoColor=3B3331" target="_blank"></a>
 </div>
-
----
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rosystt/rosystt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rosystt/rosystt/output/github-snake.svg" />
-  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/rosystt/rosystt/output/github-snake.svg" />
-</picture>
-</div>
